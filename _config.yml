@@ -1,0 +1,8 @@
+title: Lancehudson.github.io
+description: Personal Site
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
